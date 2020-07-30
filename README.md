@@ -1,2 +1,0 @@
-# PythonTut
-PythonTutorial
